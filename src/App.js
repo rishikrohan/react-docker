@@ -10,9 +10,9 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <p>
-           <li> learn docker </li>
-           <li> learn kubernetes </li>
-           <li> learn java </li>
+           <li> 001 </li>
+           <li> 002 </li>
+           <li> 003 </li>
         </p>
         <a
           className="App-link"
